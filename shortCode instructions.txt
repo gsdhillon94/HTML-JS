@@ -1,0 +1,7 @@
+This project is created by Gurdayal Singh Dhillon. 
+
+the JS code accepts a store code , date and transaction number and creates a 9 character short code.
+
+This short code can be decoded to get back the values of store code,date , transaction number.
+
+To run this code open the shortCode.html file in a browser and click on run tests.
